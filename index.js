@@ -2,8 +2,6 @@ var kittens = ['Milo','Otis','Garfield'] //define your array here
 
 // Add your functions and code here
 function destructivelyAppendKitten(name)
-{ AppendKitten.kittens(Ralph)
-  return
-    AppendKitten(Ralph)
-
+{ return kittens.AppendKitten(Ralph)=
+  
 }
