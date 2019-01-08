@@ -12,5 +12,5 @@ return kittens
 function destructivelyRemoveLastKitten(name)
 {
 kittens.pop()
-  
+
 }
