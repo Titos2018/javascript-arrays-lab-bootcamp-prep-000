@@ -18,5 +18,4 @@ function destructivelyRemoveFirstKitten(name)
 {
 kittens.unshift()
 
-
 }
