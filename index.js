@@ -5,4 +5,3 @@ function destructivelyAppendKitten(name)
 { var kittens = ['Milo','Otis','Garfield']
 kittens.AppendKitten('Ralph');
 return kittens}
-
